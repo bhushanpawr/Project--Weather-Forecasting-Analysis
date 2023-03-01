@@ -1,10 +1,11 @@
-# Project-Weather-Forecasting-Analysis
-Tools used:
+1) [**Dataset**](https://github.com/bhushanpawr/Project--Weather-Forecasting-Analysis/blob/main/weather_dataset_stage1.xls)
 
-Advanced Excel
+2) [**Excel_Cleaning**](https://github.com/bhushanpawr/Project--Weather-Forecasting-Analysis/blob/main/weather.csv)
 
-Python
+3) [**Python_Notebook**](https://github.com/bhushanpawr/Project--Weather-Forecasting-Analysis/blob/main/Python%20Notebook.ipynb)
 
-MySQL
+4) [**Python_Cleaned**](https://github.com/bhushanpawr/Project--Weather-Forecasting-Analysis/blob/main/weather_cleaned.csv)
 
-PowerBI
+5) [**SQL_queries**](https://github.com/bhushanpawr/Project--Weather-Forecasting-Analysis/blob/main/SQL%20Queries.sql)
+
+6) [**Dashboard**](https://github.com/bhushanpawr/Project--Weather-Forecasting-Analysis/blob/main/Module2.pbix)
